@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.heygen.com)",
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)",
+      "Bash(cp:*)",
+      "Bash(npm run dev:*)"
+    ],
+    "deny": []
+  }
+}
